@@ -5,3 +5,4 @@
 -after pushed on github , we just making an edit to the file and the we sent the updates to master local branch again
 yesss, good but just making an edit , let's commit and tell remote origin branch that we successd 
 i create a branch on remote github and pull to make sure that i have made any changes , so i checkout to it directly to move on it , now i make changes on local to re commit it 
+now i made an local branch and from master branch after full updates , and pushed it to github , let's merge it with the master and delete localy branch 
