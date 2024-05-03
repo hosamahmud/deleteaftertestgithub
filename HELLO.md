@@ -4,4 +4,4 @@
 -after commit on new branch , we merged the new brnach to master ,and now editing let commit finally 
 -after pushed on github , we just making an edit to the file and the we sent the updates to master local branch again
 yesss, good but just making an edit , let's commit and tell remote origin branch that we successd 
-
+i create a branch on remote github and pull to make sure that i have made any changes , so i checkout to it directly to move on it , now i make changes on local to re commit it 
